@@ -3,6 +3,8 @@
 EventFlow is a full-stack web platform for **event creation, attendee management, engagement, and post-event analytics**.  
 It empowers **organizers** with dashboards, AI scheduling, and QR-based check-ins, while **attendees** enjoy smart recommendations, e-tickets, live engagement, and personalized insights.
 
+LINK: https://v0.app/chat/event-platform-development-cedj6mAbDuL?b=v0-preview-b_Zc5MknBOXzT&f=1&path=%2F
+project could not be deployed!
 ---
 
 ## ✨ Features
