@@ -28,22 +28,6 @@ It empowers **organizers** with dashboards, AI scheduling, and QR-based check-in
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** Next.js (App Router) + TailwindCSS
-- **Backend:** Next.js API Routes + Prisma
-- **Database:** PostgreSQL / Supabase (with pgvector for AI embeddings)
-- **Authentication:** NextAuth.js (planned)
-- **Emails:** Resend (e-tickets, confirmations)
-- **Analytics:** PostHog
-- **QR Codes:** `qrcode` + `@zxing/browser`
-- **Fonts:** 
-  - Navigation Bar → `LL Letterra`
-  - Content → `NType 82 Mono`
-- **Background Theme:** Gradient (`#FFFFFF` dominant with subtle `#8A78BA` and `#592CD5`)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone & Install
